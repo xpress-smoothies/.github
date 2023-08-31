@@ -1,3 +1,3 @@
-# Xpress Smoke Shop
+# Xpress Smoothies
 
-Hello! This is the home of Xpress Smoke Shop Engineering!
+Hello! This is the home of Xpress Smoothies Engineering!
